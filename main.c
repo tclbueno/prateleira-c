@@ -2,8 +2,6 @@
 #include <locale.h>
 #include <stdio.h>
 
-// Tainara Cristina Lucindo Bueno - BP30444211
-
 int main(void) {
 
   setlocale(LC_ALL, "Portuguese");
